@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Wellnation">
-    <img src="https://raw.githubusercontent.com/Wellnation/.github/4ccbf244ff93653f3e214bb25bb8d69aeca8bcd2/profile/5.svg" alt="Logo" width="100" height="100">
+    <img src="https://raw.githubusercontent.com/Wellnation/.github/main/profile/WN.png" alt="Logo" width="100" height="100">
   </a>
 
   <p align="center">WELLNATION</p>
@@ -117,4 +117,4 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Multi-language Support
   - [ ] Chinese
   - [ ] Spanish
- --> -->
+ --> 
