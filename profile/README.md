@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Wellnation">
-    <img src="https://raw.githubusercontent.com/Wellnation/.github/main/profile/WN.png" alt="Logo" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/Wellnation/.github/main/profile/wn.png" alt="Logo" width="200" height="200">
   </a>
 
   <p align="center">WELLNATION</p>
