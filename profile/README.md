@@ -81,11 +81,12 @@ Overall, WellNation is an innovative healthcare application that simplifies the 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Installation
+## Try it out
 
 [![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/Wellnation/.github/raw/main/profile/WellNation.apk)
-[![N|Solid](https://cdn0.iconfinder.com/data/icons/business-finance-vol-6-9/512/13-512.png)](http://35.230.100.0:3000/k)
-
+&nbsp;<a href="http://35.230.100.0:3000" target="_blank">
+  <img alt="web-logo" src="https://cdn0.iconfinder.com/data/icons/business-finance-vol-6-9/512/13-512.png" height="40px" />
+</a>
 ## Authors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
