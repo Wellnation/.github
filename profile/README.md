@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/Wellnation/.github/main/profile/wn.png" alt="Logo" width="200" height="200">
   </a>
 
-  <p align="center">WELLNATION</p>
+ ## <p align="center">WELLNATION</p>
 
   <p align="center">
     Healthier you, happier world!
@@ -54,16 +54,15 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-<b>`WellNation`</b> is a revolutionary project that aims to connect people with nearby hospitals through its mobile application and web application. The platform offers a comprehensive list of the best hospitals nearby, simplifying the process of finding medical attention.
+<b>`WellNation`</b> is a revolutionary platform that aims to bring transparency to the healthcare industry by connecting hospitals, service providers, users, and doctors with real-time data and information updates. The platform offers a comprehensive list of nearby hospitals, along with information about available doctors, tests, and rooms, making it easy for users to make informed decisions.
 
-WellNation's unique feature is the integration of WellBot, a chatbot designed to answer all medical questions within the app. This feature adds convenience and ease of use, ensuring users can access all necessary information and support in one place.
+Users can book appointments and tests through the app and access all relevant information about the availability of different services at all hospitals. The platform also features WellBot, a chatbot designed to answer all medical questions within the app, providing users with quick and reliable medical advice.
 
-The WellNation application is user-friendly and easy to navigate, providing a seamless experience for users. It offers a complete healthcare solution, providing all necessary information related to medical issues.
+In addition, WellNation features an emergency SOS alert system that users can activate with just one click. By clicking the app widget, the user's location and information are shared with nearby hospitals and volunteers, ensuring rapid assistance during emergency situations.
 
-Overall, WellNation is an innovative healthcare application that simplifies the process of connecting with nearby hospitals. Its integration with WellBot makes it a complete healthcare solution that provides quick answers to medical questions, making it a must-have for all individuals seeking medical attention.
+Overall, WellNation is an innovative healthcare application that simplifies the process of connecting with nearby hospitals while providing users with all necessary information related to medical issues. Its integration with WellBot and emergency SOS alert system make it a comprehensive healthcare solution that is essential for all individuals seeking medical attention.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built With
 
@@ -77,16 +76,18 @@ Overall, WellNation is an innovative healthcare application that simplifies the 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Try it out
 
 [![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/Wellnation/.github/raw/main/profile/WellNation.apk)
 &nbsp;<a href="http://35.230.100.0:3000" target="_blank">
   <img alt="web-logo" src="https://cdn0.iconfinder.com/data/icons/business-finance-vol-6-9/512/13-512.png" height="40px" />
+  
 </a>
+
 ## Authors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -110,7 +111,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 <!-- 
