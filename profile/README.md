@@ -61,8 +61,12 @@ Users can book appointments and tests through the app and access all relevant in
 In addition, WellNation features an emergency SOS alert system that users can activate with just one click. By clicking the app widget, the user's location and information are shared with nearby hospitals and volunteers, ensuring rapid assistance during emergency situations.
 
 Overall, WellNation is an innovative healthcare application that simplifies the process of connecting with nearby hospitals while providing users with all necessary information related to medical issues. Its integration with WellBot and emergency SOS alert system make it a comprehensive healthcare solution that is essential for all individuals seeking medical attention.
+### Video: 
+<div align="center">
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t391I6rPHZk/0.jpg)](https://youtu.be/t391I6rPHZk)
 
+</div>
 
 ## Built With
 
