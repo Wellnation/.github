@@ -82,15 +82,24 @@ Overall, WellNation is an innovative healthcare application that simplifies the 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## Check out the Repositories
+Android App Code: https://github.com/Wellnation/WellnationAndroidApp
+<br>
+Web Portal Code: https://github.com/Wellnation/wellnation-web-portal
 
 
 ## Try it out
 
-[![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/Wellnation/.github/raw/main/profile/WellNation.apk)
+[![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/Wellnation/.github/raw/main/profile/WellNation.apk) 
 &nbsp;<a href="http://35.230.100.0:3000" target="_blank">
   <img alt="web-logo" src="https://cdn0.iconfinder.com/data/icons/business-finance-vol-6-9/512/13-512.png" height="40px" />
   
 </a>
+Credentials for Android App: You can create a new Account by Providing Email and Password
+<br>
+Credentials for Web: You can Create a new account but here is a sample account with some sample data for better understanding of the admin pannel. <br> Email Address: b120057@iiit-bh.ac.in , Password: 123456
+<br>
+<br>
 
 ## Authors ✨
 
