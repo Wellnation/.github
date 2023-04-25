@@ -64,7 +64,7 @@ Overall, WellNation is an innovative healthcare application that simplifies the 
 ### Video: 
 <div align="center">
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t391I6rPHZk/0.jpg)](https://youtu.be/t391I6rPHZk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Af9kPG86Js4/0.jpg)](https://www.youtube.com/watch?v=Af9kPG86Js4)
 
 </div>
 
