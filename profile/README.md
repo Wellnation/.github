@@ -91,7 +91,7 @@ Web Portal Code: https://github.com/Wellnation/wellnation-web-portal
 ## Try it out
 
 [![N|Solid](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HeroHomepage_2880x1200.max-100x100.jpg)](https://github.com/Wellnation/.github/raw/main/profile/WellNation.apk) 
-&nbsp;<a href="http://35.230.100.0:3000" target="_blank">
+&nbsp;<a href="http://34.170.11.83:3000" target="_blank">
   <img alt="web-logo" src="https://cdn0.iconfinder.com/data/icons/business-finance-vol-6-9/512/13-512.png" height="40px" />
   
 </a>
